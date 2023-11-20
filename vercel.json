@@ -23,6 +23,5 @@
       "src": "/(.*)",
       "dest": "vrcl/wsgi.py"
     }
-  ],
-  "outputDirectory": "staticfiles_build"
+  ]
 }
